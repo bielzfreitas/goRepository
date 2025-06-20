@@ -1,5 +1,7 @@
 # goRepository
 
+- go run main.go
+
 ## Curso de Go da RocketSeat
 
 #### main.go
